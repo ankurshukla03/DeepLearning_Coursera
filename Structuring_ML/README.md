@@ -1,2 +1,2 @@
 - This course only had case study quiz instead of assignments.
-- This course may seem not interesting for someone who is taking this specialization but I do recommend you going through the videos and solving case study quiz as it helps you develop your thinking when solving Deep learning problems.
+- Topic in this one may seem not interesting for someone who is taking this specialization but I do recommend you going through the videos and solving case study quiz as it helps you develop your thinking when solving Deep learning problems.
